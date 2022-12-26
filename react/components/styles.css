@@ -1,0 +1,6 @@
+.container {
+  border: 1px dotted red;
+}
+.container__item {
+  border: 2px solid gainsboro;
+}
